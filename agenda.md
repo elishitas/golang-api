@@ -6,10 +6,12 @@
 
 4 - Crear web server, handlers, routing -chi-
 
-5 - Test
+5 - Documentar con Swagger
 
-6 - Makefile
+6 -Test
 
-7 - Dockerizar el proyecto
+7 - Makefile
 
-8 - Deploy en Heruko
+8 - Dockerizar el proyecto
+
+9 - Deploy en Heruko
